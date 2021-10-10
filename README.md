@@ -9,7 +9,7 @@
 ## I'm know 
 
 #### Langs
-![js](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=gray) ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black) ![rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=Rust&logoColor=black) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
+![cpp](https://img.shields.io/badge/Cpp-blue?style=for-the-badge&logo=Cpp&logoColor=blue) ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black) ![rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=Rust&logoColor=black) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
 
 #### Frameworks
 ![electronjs](https://img.shields.io/badge/Electron-gray?style=for-the-badge&logo=Electron&logoColor=white) ![expressjs](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=Express&logoColor=black) ![react](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=white) 
