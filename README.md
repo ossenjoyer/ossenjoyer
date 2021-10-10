@@ -17,7 +17,11 @@
 
 ## If you want work with me, write on...
 
-![discord](https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=Discord&logoColor=white) - SWC S3#7468
+![discord](https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=Discord&logoColor=white) <br>
+SWC S3#7468
 
-<a href="https://t.me/swc_s3">![telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)</a> - (click on badge)
+<a href="https://t.me/swc_s3">![telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)</a><br>
+(click on badge)
 
+![matrix](https://img.shields.io/badge/Matrix-black?style=for-the-badge&logo=Matrix&logoColor=white)<br>
+@swcs3:matrix.org
