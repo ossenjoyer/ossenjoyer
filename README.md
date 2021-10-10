@@ -9,13 +9,9 @@
 ## I'm know 
 
 #### Langs
-![cpp](https://img.shields.io/badge/Cpp-blue?style=for-the-badge&logo=Cpp&logoColor=blue) ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black) ![rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=Rust&logoColor=black) ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) 
+![cpp](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=Cpp&logoColor=blue) ![c](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=C&logoColor=black) ![rust](https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=Rust&logoColor=black) 
 
-#### Frameworks
-![electronjs](https://img.shields.io/badge/Electron-gray?style=for-the-badge&logo=Electron&logoColor=white) ![expressjs](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=Express&logoColor=black) ![react](https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React&logoColor=white) 
-![oak](https://img.shields.io/badge/Deno-Oak-black?style=for-the-badge&logo=Deno&logoColor=white) 
-
-#### DBs
+#### DB Control Systems
 ![mysql](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL&LogoColor=black) ![mongodb](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&LogoColor=green) ![couchdb](https://img.shields.io/badge/Apache-CouchDB-red?style=for-the-badge&logo=Apache-CouchDB&LogoColor=red)
 
 
