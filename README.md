@@ -4,7 +4,7 @@
 
 ### I'm a SWC S3, but you can call me sandwich
 
-#### My name is Denis and I'm a coder
+#### My name is Denis and I'm a ~~shit~~coder
 
 ## I'm know 
 
