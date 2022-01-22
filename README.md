@@ -25,4 +25,3 @@
 - Telegram - <br>
 ![telegram](https://my-socnets-username.herokuapp.com/username/telegram)
 
-- Matrix (Element.io) - @swcs3:matrix.org
