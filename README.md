@@ -19,8 +19,10 @@
 
 ## If you wanna write me, so...
 
-- Discord - SWC S3#7468
+- Discord - <br>
+![discord](https://my-socnets-username.herokuapp.com/username/discord)
 
-- Telegram - https://t.me/swc_s3
+- Telegram - <br>
+![telegram](https://my-socnets-username.herokuapp.com/username/telegram)
 
 - Matrix (Element.io) - @swcs3:matrix.org
