@@ -7,7 +7,7 @@
 - I always can't decide on programming languages and technology stack. 
 - at this time it is difficult for me... 
 - I can speak on:
-  - Ukrainian (otherlannd language)
+  - Ukrainian (motherlannd language)
   - Russian
   - English
 
@@ -20,8 +20,8 @@
 ## If you wanna write me, so...
 
 - Discord - <br>
-![discord](http://my-socnets-username.herokuapp.com/username/discord)
+<img src="http://my-socnets-username.herokuapp.com/username/discord">
 
 - Telegram - <br>
-![telegram](http://my-socnets-username.herokuapp.com/username/telegram)
+<img src="http://my-socnets-username.herokuapp.com/username/telegram">
 
