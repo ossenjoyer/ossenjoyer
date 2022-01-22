@@ -20,8 +20,8 @@
 ## If you wanna write me, so...
 
 - Discord - <br>
-![discord](https://my-socnets-username.herokuapp.com/username/discord)
+![discord](http://my-socnets-username.herokuapp.com/username/discord)
 
 - Telegram - <br>
-![telegram](https://my-socnets-username.herokuapp.com/username/telegram)
+![telegram](http://my-socnets-username.herokuapp.com/username/telegram)
 
