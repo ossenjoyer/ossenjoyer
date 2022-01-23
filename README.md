@@ -22,5 +22,5 @@
 - Discord - <br>
 <img src="http://my-socnets-username.herokuapp.com/username/discord?text=https://my-socnets-username.herokuapp.com/username/text/discord&bg=black&icon=ds">
 - Telegram - <br>
-<img src="http://my-socnets-username.herokuapp.com/username/telegram?text=https://my-socnets-username.herokuapp.com/username/text/telegram&bg=black&icon=tg">
+<img src="http://my-socnets-username.herokuapp.com/username/telegram?text=https://my-socnets-username.herokuapp.com/username/text/telegram&icon=tg&bg=black">
 
