@@ -20,7 +20,7 @@
 ## If you wanna write me, so...
 
 - Discord - <br>
-<img src="http://my-socnets-username.herokuapp.com/username/discord?text=https://my-socnets-username.herokuapp.com/username/text/discord&icon=ds&bg=blac">
+<img src="http://my-socnets-username.herokuapp.com/username?text=https://my-socnets-username.herokuapp.com/username/text/discord&icon=ds&bg=black&color=white">
 - Telegram - <br>
-<img src="https://my-socnets-username.herokuapp.com/username/telegram?text=https://my-socnets-username.herokuapp.com/username/text/telegram&icon=tg&bg=black">
+<img src="https://my-socnets-username.herokuapp.com/username?text=https://my-socnets-username.herokuapp.com/username/text/telegram&icon=tg&bg=black&color=white">
 
