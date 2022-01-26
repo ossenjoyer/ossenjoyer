@@ -13,9 +13,9 @@
 
 # GitHub Activity
 
-![github stats](https://github-readme-stats.vercel.app/api?username=swcs3&theme=dark&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=JudgementDev&theme=dark&show_icons=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=swcs3&theme=dark&layout=compact&show_icons=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=JudgementDev&theme=dark&layout=compact&show_icons=true)
 
 ## If you wanna write me, so...
 
