@@ -17,10 +17,14 @@
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=JudgementDev&theme=dark&layout=compact&show_icons=true)
 
-## If you wanna write me, so...
-
-- Discord - <br>
+## Contacting with me in:
+<ul>
+<li> 
+Discord - <br>
 <img src="https://my-socnets-username.herokuapp.com/username?type=discord&borderSize=7">
-- Telegram - <br>
+</li>
+<li> 
+Telegram - <br>
 <img src="https://my-socnets-username.herokuapp.com/username?type=telegram&borderSize=7">
-
+</li>
+</ul>
