@@ -13,18 +13,10 @@
 
 # GitHub Activity
 
-![github stats](https://github-readme-stats.vercel.app/api?username=JudgementDev&theme=dark&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=denkisil&theme=dark&show_icons=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=JudgementDev&theme=dark&layout=compact&show_icons=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=denkisil&theme=dark&layout=compact&show_icons=true)
 
-## Contacting with me in:
-<ul>
-<li> 
-Discord - <br>
-<img src="https://my-socnets-username.herokuapp.com/username?type=discord&borderSize=7">
-</li>
-<li> 
-Telegram - <br>
-<img src="https://my-socnets-username.herokuapp.com/username?type=telegram&borderSize=7">
-</li>
-</ul>
+## Contact with me:
+- Mail: denkisil@outlook.com
+- Telegram: @denkisil
