@@ -10,6 +10,17 @@
   - Ukrainian (motherlannd language)
   - Russian
   - English
+- i know...:
+  - JavaScript (Node.js)
+  - Python
+  - C++
+  - Express.js
+  - Mongoose.js
+  - Discord.js (v12, some v13)
+  - MongoDB
+  - Linux bash (something i can to do)
+  - Windows pwsh (somethihg i can to do)
+  
 
 # GitHub Activity
 
@@ -20,3 +31,4 @@
 ## Contact with me:
 - Mail: denkisil@outlook.com
 - Telegram: @denkisil
+- Discord: denkisil#8842
