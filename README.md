@@ -19,7 +19,8 @@
     - Express.js
     - Mongoose.js
     - Discord.js (v13)
-    - Linux bash (something i can to do)
+  - Shells:
+    - Linux bash 
   - DBMS:
     - MongoDB
   
