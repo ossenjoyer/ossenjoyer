@@ -11,15 +11,17 @@
   - Russian
   - English
 - i know...:
-  - JavaScript (Node.js)
-  - Python
-  - C++
-  - Express.js
-  - Mongoose.js
-  - Discord.js (v12, some v13)
-  - MongoDB
-  - Linux bash (something i can to do)
-  - Windows pwsh (somethihg i can to do)
+  - Languages
+    - JavaScript (Node.js)
+    - Python
+    - C++ (not all)
+  - Instumentaries:
+    - Express.js
+    - Mongoose.js
+    - Discord.js (v13)
+    - Linux bash (something i can to do)
+  - DBMS:
+    - MongoDB
   
 
 # GitHub Activity
