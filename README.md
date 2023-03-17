@@ -1,29 +1,23 @@
 <h1 align="center">Welcome to my profile!</h1>
 
-<img src="https://media.tenor.co/images/ae40603eddb6e4bb1ea56cc6de7d0f6e/raw" align="center"/>
+![hello gif](https://media.tenor.com/PVOLP-zHqooAAAAC/hello.gif)
 
 # About me
-- 15 years, from Ukraine, like programing. 
-- I always can't decide on programming languages and technology stack. 
-- at this time it is difficult for me... 
-- I can speak on:
-  - Ukrainian (motherlannd language)
-  - Russian
-  - English
-- i know...:
-  - Languages
-    - JavaScript (Node.js)
-    - Python
-    - C++ (not all)
-  - Instumentaries:
-    - Express.js
-    - Mongoose.js
-    - Discord.js (v13)
-  - Shells:
-    - Linux bash 
-  - DBMS:
-    - MongoDB
-  
+- 16 years old
+- fuck russians
+- Ready to collaborations
+- know:
+  - Python
+  - FastAPI
+  - MongoDB
+- Want to learn:
+  - Rust
+  - C/C++
+  - Java
+  - C#
+- studying now
+  - Vue
+  - Supabase
 
 # GitHub Activity
 
