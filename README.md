@@ -16,7 +16,7 @@
   - Java
   - C#
 - studying now
-  - Vue
+  - TypeScript
   - Supabase
 
 # GitHub Activity
