@@ -8,16 +8,16 @@
 - Ready to collaborations
 - know:
   - Python
+  - TypeScript
   - FastAPI
+  - Express
+  - Prisma
   - MongoDB
 - Want to learn:
   - Rust
   - C/C++
-  - Java
+  - Java/Scala
   - C#
-- studying now
-  - TypeScript
-  - Supabase
 
 # GitHub Activity
 
@@ -27,5 +27,5 @@
 
 ## Contact with me:
 - Mail: denkisil@outlook.com
-- Telegram: @denkisil
-- Discord: denkisil#8842
+- Telegram: [@denkisil](https://t.me/denkisil)
+- Discord: [denkisil#8842](https://discord.com/users/user/1034708466977214464)
