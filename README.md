@@ -4,7 +4,7 @@
 
 # About me
 - 16 years old
-- fuck russians
+- russians go fuck themselves
 - Ready to collaborations
 - know:
   - Python
@@ -12,12 +12,19 @@
   - FastAPI
   - Express
   - Prisma
-  - MongoDB
+- Studying now:
+  - React
+  - Webpack
+  - Redux
+  - `i18next`
+  - Babel/ESLint/Prettier
 - Want to learn:
   - Rust
   - C/C++
   - Java/Scala
   - C#
+  - PostgreSQL/Apache Cassandra
+  - Redis
 
 # GitHub Activity
 
