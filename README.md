@@ -12,12 +12,7 @@
   - FastAPI
   - Express
   - Prisma
-- Studying now:
-  - React
-  - Webpack
-  - Redux
-  - `i18next`
-  - Babel/ESLint/Prettier
+  - Vite
 - Want to learn:
   - Rust
   - C/C++
