@@ -13,13 +13,7 @@
   - Express
   - Prisma
   - Vite
-- Want to learn:
-  - Rust
-  - C/C++
-  - Java/Scala
-  - C#
-  - PostgreSQL/Apache Cassandra
-  - Redis
+  - ElectronJS
 
 # GitHub Activity
 
