@@ -23,5 +23,4 @@
 
 ## Contact with me:
 - Mail: denkisil@outlook.com
-- Telegram: [@denkisil](https://t.me/denkisil)
 - Discord: [denkisil](https://discord.com/users/user/1034708466977214464)
