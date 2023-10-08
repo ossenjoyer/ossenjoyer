@@ -19,7 +19,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=denkisil&theme=dark&show_icons=true)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=denkisil&theme=dark&layout=compact&show_icons=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=denkisil&theme=dark&show_icons=true)
 
 ## Contact with me:
 - Mail: denkisil@outlook.com
