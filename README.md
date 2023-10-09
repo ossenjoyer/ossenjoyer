@@ -9,11 +9,11 @@
 - know:
   - Python
   - TypeScript
-  - FastAPI
   - Express
   - Prisma
   - Vite
   - ElectronJS
+  - Svelte/SvelteKit
 
 # GitHub Activity
 
