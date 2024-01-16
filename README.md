@@ -3,7 +3,7 @@
 ![hello gif](https://media.tenor.com/PVOLP-zHqooAAAAC/hello.gif)
 
 # About me
-- 16 years old
+- 17 years old
 - russians go fuck themselves
 - Ready to collaborations
 - know:
