@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my profile!</h1>
 
-![hello gif](https://media.tenor.com/PVOLP-zHqooAAAAC/hello.gif)
-
 # About me
 - 17 years old
 - russians go fuck themselves
