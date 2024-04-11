@@ -4,14 +4,7 @@
 - 17 years old
 - russians go fuck themselves
 - Ready to collaborations
-- know:
-  - Python
-  - TypeScript
-  - Express
-  - Prisma
-  - Vite
-  - ElectronJS
-  - Svelte/SvelteKit
+- Love Backend, Desktop and System programming
 
 # GitHub Activity
 
