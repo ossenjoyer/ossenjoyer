@@ -1,17 +1,21 @@
-<h1 align="center">Welcome to my profile!</h1>
+## Hello, I'm Denys Kisil
 
-# About me
-- 17 years old
-- russians go fuck themselves
-- Ready to collaborations
-- Love Backend, Desktop and System programming
+### Please visit https://denkisil.me for further information
 
-# GitHub Activity
+### About me
+- Born in Ukraine, 17 years
+- Fully in the programming since 2021
+- Love backend development and want to try system programming
+- Also love to listen dubstep and go for walks on the fresh air
 
+### Can speak on:
+- Ukrainian (native)
+- English (Intermediate)
+
+### Some stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=ossenjoyer&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossenjoyer&theme=dark&layout=compact)
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=ossenjoyer&theme=dark&show_icons=true)
-
-## Contact with me:
+### Contact with me:
 - Mail: denkisil@outlook.com
 - Discord: [denkisil](https://discord.com/users/user/1034708466977214464)
