@@ -10,7 +10,7 @@
 
 ### Can speak on:
 - Ukrainian (native)
-- English (Intermediate)
+- English (Pre Intermediate)
 
 ### Some stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=ossenjoyer&theme=dark&show_icons=true)
