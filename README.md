@@ -4,11 +4,11 @@
 
 ### About me
 - Born in Ukraine, 17 years
-- Fully in the programming since 2021
+- Fully into programming since 2021
 - Love backend development and want to try system programming
 - Also love to listen dubstep and go for walks on the fresh air
 
-### Can speak on:
+### Can speak these languages:
 - Ukrainian (native)
 - English (Pre Intermediate)
 
