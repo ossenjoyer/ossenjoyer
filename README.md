@@ -1,3 +1,5 @@
+# CURRENTLY RELOCATE TO GITLAB. IT MEANS WHAT ALL REPOSITORIES HERE 'LL BE PRIVATIZED
+
 ## Hello, I'm Denys Kisil
 
 ### Please visit https://denkisil.me for further information
