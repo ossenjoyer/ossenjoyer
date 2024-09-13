@@ -1,4 +1,4 @@
-# CURRENTLY RELOCATE TO GITLAB. IT MEANS WHAT ALL REPOSITORIES HERE 'LL BE PRIVATIZED
+# Attention: If you'd like to follow my personal profile, please find me on GitLab. All repositories here will soon be marked as private.
 
 ## Hello, I'm Denys Kisil
 
