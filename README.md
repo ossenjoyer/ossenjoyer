@@ -1,22 +1,6 @@
 # Attention: If you'd like to follow my personal profile, please find me on GitLab. All repositories here will soon be marked as private.
 
-## Hello, I'm Denys Kisil
-
-### Please visit https://denkisil.me for further information
-
-### About me
-- Born in Ukraine, 17 years
-- Fully into programming since 2021
-- Love backend development and want to try system programming
-- Also love to listen dubstep and go for walks on the fresh air
-
-### Can speak these languages:
-- Ukrainian (native)
-- English (Pre Intermediate)
-
-### Some stats:
-![github stats](https://github-readme-stats.vercel.app/api?username=ossenjoyer&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossenjoyer&theme=dark&layout=compact)
+## Hello, I'm Denys Kisil - novice developer
 
 ### Contact with me:
 - Mail: denkisil@outlook.com
